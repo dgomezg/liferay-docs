@@ -43,7 +43,7 @@ published Forms.
 offer Users autocompleted values to choose from as they type in the Text field.
 Set up autocomplete in the Text field's Properties.
 
-![Figure 6: A User beings typing in a Text field and is pleasantly surprised by a list of
+![Figure 6: A User begins typing in a Text field and is pleasantly surprised by a list of
 autocomplete options.](../../images/forms-autocomplete.png)
 
 **Form Success Page**
